@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "",
   "keywords": [],
-  "main": "src/index1.tsx",
+  "main": "src/index.js",
   "dependencies": {
     "@emotion/core": "10.1.1",
     "@emotion/react": "^11.6.0",
