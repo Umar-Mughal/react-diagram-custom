@@ -1,9 +1,9 @@
 {
   "name": "working-reactflow-diagram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
-  "main": "src/index.tsx",
+  "main": "src/index1.tsx",
   "dependencies": {
     "@emotion/core": "10.1.1",
     "@emotion/react": "^11.6.0",
