@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
+  "main": "build/index.js",
   "dependencies": {
     "@emotion/core": "10.1.1",
     "@emotion/react": "^11.6.0",
@@ -30,7 +30,7 @@
   },
   "scripts": {
     "start": "PORT=3001 react-scripts start",
-    "build": "react-scripts build",
+    "build": "babel src -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
